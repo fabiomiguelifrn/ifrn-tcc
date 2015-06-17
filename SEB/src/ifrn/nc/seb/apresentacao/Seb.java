@@ -7,6 +7,9 @@ import javax.swing.JDesktopPane;
 import java.awt.BorderLayout;
 import java.awt.Color;
 
+/**
+ * Esta classe será utilizada para iniciar a aplicação ...  
+ */
 public class Seb {
 
 	private JFrame frmSistemaDeEmprstimo;
